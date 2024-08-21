@@ -22,3 +22,9 @@ Kubernetes provides a consistent platform across various environments enabling a
 ### Deployment 
 ### Service 
 ### Container Runtime
+
+## What is kubectl ?
+kubectl is the command-line interface (CLI) tool used to interact with Kubernetes clusters. It allows users to perform various operations on Kubernetes resources, such as pods, services,deployments, and more. kubectl communicates with the Kubernetes API server to execute commands and manage cluster resources. Users can create, inspect, update, and delete.Kubernetes objects using kubectl, as well as perform tasks like scaling deployments, viewing cluster logs, executing commands inside containers,
+port-forwarding, and managing configurations. It is a versatile tool that plays a crucial role in managing and operating.Kubernetes clusters efficiently from the command line.
+
+
